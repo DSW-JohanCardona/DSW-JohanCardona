@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.395" height="59.395" viewBox="0 0 59.395 59.395">
+  <g id="Grupo_4" data-name="Grupo 4" transform="translate(160.5 267.697)">
+    <g id="Icon_feather-grid" data-name="Icon feather-grid" transform="translate(-163.5 -270.697)">
+      <path id="Trazado_1" data-name="Trazado 1" d="M4.5,4.5H26.431V26.431H4.5Z" transform="translate(0 0)" fill="none" stroke="#734d62" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Trazado_2" data-name="Trazado 2" d="M21,4.5H42.931V26.431H21Z" transform="translate(17.963 0)" fill="none" stroke="#51a69d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Trazado_3" data-name="Trazado 3" d="M21,21H42.931V42.931H21Z" transform="translate(17.963 17.963)" fill="none" stroke="#d9ad29" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Trazado_4" data-name="Trazado 4" d="M4.5,21H26.431V42.931H4.5Z" transform="translate(0 17.963)" fill="none" stroke="#778c58" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
